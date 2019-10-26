@@ -2,3 +2,4 @@ initial content
 ABC
 ABC test
 ABC master
+ABC test2
